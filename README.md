@@ -1,7 +1,7 @@
   <br/>
 <div align="center">
   <a href="https://github.com/ylarious">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ylarious&show_icons=true&theme=shadow_red&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ylarious&show_icons=true&theme=shadow_red&include_all_commits=true&count_private=true&token=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""/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ylarious&layout=compact&langs_count=7&theme=shadow_red"/>
 </div>
   <br/>
